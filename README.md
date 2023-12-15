@@ -1,2 +1,4 @@
 # Python_Assignment5520
-Repo to contain code for python Assignment for 5520 course.
+The repository contains code for the Python Assignment.
+A#: A00473377
+Name: Zaid Mohammed Siddique Shaikh
